@@ -1,0 +1,7 @@
+#игнорирование файлов
+upload/
+protected/runtime/
+/assets/
+project_root_config.php
+protected/yiic
+protectes/yiic.bat
